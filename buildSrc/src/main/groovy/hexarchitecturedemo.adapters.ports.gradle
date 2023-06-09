@@ -1,0 +1,7 @@
+plugins {
+    id 'hexarchitecturedemo.java-common-conventions'
+}
+
+dependencies {
+    implementation project(':application')
+}

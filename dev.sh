@@ -1,0 +1,1 @@
+podman run -it --rm -v "$(pwd):/home" docker.io/eclipse-temurin:11-jdk-jammy bash
